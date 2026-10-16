@@ -1,0 +1,13 @@
+id;descricao;data;valor
+TX001;Pagamento mensalidade cliente A;2026-10-02;150,00
+TX002;Pagamento mensalidade cliente B;2026-10-03;200,00
+TX003;Pagamento consultoria projeto Alfa;2026-10-05;1200,00
+TX004;Pagamento licença de software;2026-10-05;89,90
+TX005;Pagamento manutenção mensal;2026-10-06;400,00
+TX006;Pagamento treinamento da equipe;2026-10-08;800,50
+TX009;Pagamento assinatura plano básico;2026-10-10;59,90
+TX010;Pagamento design - parcela 1;2026-10-11;750,00
+TX010;Pagamento design - parcela 2;2026-10-12;750,00
+TX011;Pagamento avulso sem lançamento;2026-10-12;250,00
+TX012;Depósito não identificado;2026-10-13;75,25
+TX013;Confirmação de cortesia;2026-10-13;0,00

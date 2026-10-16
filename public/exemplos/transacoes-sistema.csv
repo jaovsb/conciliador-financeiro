@@ -1,0 +1,13 @@
+id;descricao;data;valor
+TX001;Mensalidade cliente A;2026-10-01;150,00
+TX002;Mensalidade cliente B;2026-10-02;200,00
+TX003;Consultoria projeto Alfa;2026-10-03;1200,00
+TX004;Licença de software;2026-10-04;89,90
+TX005;Manutenção mensal;2026-10-05;450,00
+TX006;Treinamento da equipe;2026-10-06;780,50
+TX007;Suporte técnico;2026-10-07;320,00
+TX008;Hospedagem anual;2026-10-08;960,00
+TX009;Assinatura plano básico;2026-10-09;59,90
+TX009;Assinatura plano básico (lançamento repetido);2026-10-09;59,90
+TX010;"Serviço de design; identidade visual";2026-10-10;1500,00
+TX013;Cortesia de avaliação;2026-10-11;0,00
